@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<info>
+    <id>simpleunzipper</id>
+    <name>Simple Unzipper</name>
+    <description>App to unzip archives.</description>
+    <version>1.0.0</version>
+    <license>AGPL</license>
+    <author>Your Name</author>
+    <namespace>SimpleUnzipper</namespace>
+    <category>tools</category>
+    <dependencies>
+        <nextcloud min-version="23" max-version="30" />
+    </dependencies>
+</info>
